@@ -1,18 +1,7 @@
-# 🤖 Chatbot (Python + Guanaco API)
+# 🤖 Chatbot (Python)
 
-A simple Python-based chatbot that communicates with the [Guanaco Chat Model API](http://guanaco-submitter.guanaco-backend.k2.chaiverse.com/endpoints/onsite/chat).  
-This project uses modern tooling like `uv` for dependency management and GitHub Actions for CI.
-
----
-
-## 📦 Features
-
-- Interactive chatbot in the terminal
-- Guanaco API-powered message generation
-- Full chat history handling
-- Modern dependency management via `uv`
-- Unit tests using `pytest`
-- GitHub Actions for continuous testing
+A simple Python-based chatbot that communicates with the Chai.  
+This project uses `uv` for dependency management and GitHub Actions for CI.
 
 ---
 
