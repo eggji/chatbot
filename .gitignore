@@ -1,0 +1,21 @@
+# Python build artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# pytest
+.pytest_cache/
+
+# Ruff
+.ruff_cache/
+
+# VS Code
+.vscode/
+
+# macOS system
+.DS_Store
